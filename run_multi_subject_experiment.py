@@ -202,17 +202,14 @@ def main():
     current_experiment_setting = "Color116ms"
 
     all_subjects = [
-        "gcd",
-        "fat",
-        "gcc",
-        "icr",
-        "icn",
-        "iay",
-        "gch",
-        "gcg",
-        "gcf",
-        "gcb",
-        "pia"
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
     ];
 
     add_time_domain_noise = False
@@ -236,6 +233,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
