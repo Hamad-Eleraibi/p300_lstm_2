@@ -209,7 +209,7 @@ def main():
         "5",
         "6",
         "7",
-        "8",
+        "8"
     ];
 
     add_time_domain_noise = False
