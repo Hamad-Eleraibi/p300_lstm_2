@@ -27,7 +27,7 @@ def main():
     current_experiment_setting = "Color116ms"
 
     all_subjects = [
-        "gcd",
+        "8",
     ];
 
     add_time_domain_noise = False
@@ -52,6 +52,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
